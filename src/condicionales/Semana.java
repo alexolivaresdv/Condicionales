@@ -5,7 +5,7 @@
  */
 package condicionales;
 import javax.swing.JOptionPane;
-import java.lang.Math;//Paquete para funciones Matematica
+
 /**
  *
  * @author LAB17
